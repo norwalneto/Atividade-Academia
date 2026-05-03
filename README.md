@@ -1,2 +1,2 @@
-# Atividade-Academia-29-04-2026
-Ativade do Treinamento Java Accenture
+# Atividade-Academia
+Repositorio para Entrega das Atividades do Treinamento Java Accenture
